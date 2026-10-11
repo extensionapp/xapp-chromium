@@ -11,8 +11,7 @@
 [![EXTENSION.app](https://github.com/extensionapp/.github/blob/main/profile/banner.png)](https://extension.app)
 
 
-EXTENSION.app is the all-in-one browser extension for Chromium and Chrome based browsers.
-
+EXTENSION.app is the all-in-one browser extension for Chromium-based browsers.
 
 
 # Supported browsers
@@ -25,23 +24,19 @@ EXTENSION.app is the all-in-one browser extension for Chromium and Chrome based 
 
 
 # Download for browser extension stores
-[%autowidth]
-|===
-|Store |Description |Download Link
-
-|Chrome Web Store
-|App extension
-|https://chromewebstore.google.com/detail/extensionapp/dgmdafdginijdcfdnhfplccagjicopcp[`App`]
-
-|Microsoft Edge Add-ons
-|App extension
-|https://microsoftedge.microsoft.com/addons/detail/extensionapp/nepmdhfacafilgfidjhjckigjkfnhnoo[`App`]
-
-|===
+| Store | Description | Download Link |
+| -------- | -------- | -------- |
+| Chrome Web Store | App extension | [Download](https://chromewebstore.google.com/detail/extensionapp/dgmdafdginijdcfdnhfplccagjicopcp) |
+| Microsoft Edge Add-ons | App extension | [Download](https://microsoftedge.microsoft.com/addons/detail/extensionapp/nepmdhfacafilgfidjhjckigjkfnhnoo) |
 
 
 # How to install
-1. 
+1. Download repository
+2. Open Chromium-based browser: `Extensions > Manage Extensions`.
+3. Activate `Developer mode`.
+4. Press `Load unpacked`.
+5. Select extension from `Extensions` folder.
+
 
 # License
 This code is released under the [`GNU GENERAL PUBLIC LICENSE license`](LICENSE).
