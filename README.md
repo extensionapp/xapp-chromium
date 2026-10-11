@@ -39,4 +39,4 @@ EXTENSION.app is the all-in-one browser extension for Chromium-based browsers.
 
 
 # License
-This code is released under the [`GNU GENERAL PUBLIC LICENSE license`](LICENSE).
+This code is released under the [`GNU GENERAL PUBLIC LICENSE`](LICENSE).
