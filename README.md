@@ -24,9 +24,8 @@ EXTENSION.app is the all-in-one browser extension for Chromium-based browsers.
 
 
 ## Download from browser extension stores
-| Extension | Description | Chrome Web Store | Microsoft Edge Add-ons |
+| Extension | Description | [Chrome Web Store](https://chromewebstore.google.com/publisher/xapp-llc/udb3a2d9c0afccab398e836e631f2fcc2) | [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/search?developer=X.app) |
 | :--- | :--- | :--- | :--- |
-| Developer | List of extensions | [View](https://chromewebstore.google.com/publisher/xapp-llc/udb3a2d9c0afccab398e836e631f2fcc2) | [View](https://microsoftedge.microsoft.com/addons/search?developer=X.app) |
 | App | All-in-One Browser Extension | [Download](https://chromewebstore.google.com/detail/extensionapp/dgmdafdginijdcfdnhfplccagjicopcp) | [Download](https://microsoftedge.microsoft.com/addons/detail/extensionapp/nepmdhfacafilgfidjhjckigjkfnhnoo) |
 | Browser | Open a web page or a link in another browser | [Download](https://chromewebstore.google.com/detail/extensionbrowser/dmochlnpgncinmgipjjfdpiogpmglcfo) | [Download](https://microsoftedge.microsoft.com/addons/detail/extensionbrowser/fnendlcnheaockkdegmbkmjjdopfdnge) |
 | Cast | Casting interface to transmit video or audio to Chromecast or another supported device | [Download](https://chromewebstore.google.com/detail/extensioncast/djodabamamkapgkedmlnmodhlcoojgdc) | [Download](https://microsoftedge.microsoft.com/addons/detail/extensioncast/gkpjgjpbknemnmcbdiiknecaddmabbji) |
