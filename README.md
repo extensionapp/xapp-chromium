@@ -8,7 +8,7 @@
 ![Works with Vivaldi](https://img.shields.io/badge/Works_with-Vivaldi-blue?style=flat-square)
 
 
-[![EXTENSION.app](https://github.com/extensionapp/.github/blob/main/profile/banner.png)](https://extension.app)
+[![EXTENSION.app](/Assets/Images/cover.png)](https://extension.app)
 
 
 EXTENSION.app is the all-in-one browser extension for Chromium-based browsers.
