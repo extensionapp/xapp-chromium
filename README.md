@@ -14,29 +14,33 @@
 EXTENSION.app is the all-in-one browser extension for Chromium-based browsers.
 
 
-# Supported browsers
-* Chromium
-* Google Chrome
-* Microsoft Edge
-* Opera
-* Brave
-* Vivaldi
+## Supported browsers
+- Chromium
+- Google Chrome
+- Microsoft Edge
+- Opera
+- Brave
+- Vivaldi
 
 
-# Download for browser extension stores
-| Store | Description | Download Link |
-| -------- | -------- | -------- |
-| Chrome Web Store | App extension | [Download](https://chromewebstore.google.com/detail/extensionapp/dgmdafdginijdcfdnhfplccagjicopcp) |
-| Microsoft Edge Add-ons | App extension | [Download](https://microsoftedge.microsoft.com/addons/detail/extensionapp/nepmdhfacafilgfidjhjckigjkfnhnoo) |
+## Download from browser extension stores
+| Extension | Description | Chrome Web Store | Microsoft Edge Add-ons |
+| :--- | :--- | :--- | :--- |
+| Developer | List of extensions | [View](https://chromewebstore.google.com/publisher/xapp-llc/udb3a2d9c0afccab398e836e631f2fcc2) | [View](https://microsoftedge.microsoft.com/addons/search?developer=X.app) |
+| App | All-in-One Browser Extension | [Download](https://chromewebstore.google.com/detail/extensionapp/dgmdafdginijdcfdnhfplccagjicopcp) | [Download](https://microsoftedge.microsoft.com/addons/detail/extensionapp/nepmdhfacafilgfidjhjckigjkfnhnoo) |
+| Browser | Open a web page or a link in another browser | [Download](https://chromewebstore.google.com/detail/extensionbrowser/dmochlnpgncinmgipjjfdpiogpmglcfo) | [Download](https://microsoftedge.microsoft.com/addons/detail/extensionbrowser/fnendlcnheaockkdegmbkmjjdopfdnge) |
+| Cast | Casting interface to transmit video or audio to Chromecast or another supported device | [Download](https://chromewebstore.google.com/detail/extensioncast/djodabamamkapgkedmlnmodhlcoojgdc) | [Download](https://microsoftedge.microsoft.com/addons/detail/extensioncast/gkpjgjpbknemnmcbdiiknecaddmabbji) |
+| PiP | Picture-in-Picture video mode | [Download](https://chromewebstore.google.com/detail/extensionpip/jglifihbaiclgbcbnfddjgkdphlkdhpe) | [Download](https://microsoftedge.microsoft.com/addons/detail/extensionpip/ejaikgceflajdocalklfcnalmiohckpi) |
+| Player | Player controls | [Download](https://chromewebstore.google.com/detail/extensionplayer/nchjdedpgociedgnepmdggfpbngjhpnj) | [Download](https://microsoftedge.microsoft.com/addons/detail/extensionplayer/gijjiiedaeaafndnlmlhcmompjndonfn) |
+| Share | Share sheet with extensions | [Download](https://chromewebstore.google.com/detail/extensionshare/mmiepkogbkbebmbncgjabhnfapllhmjn) | [Download](https://microsoftedge.microsoft.com/addons/detail/extensionshare/bajoaglhgfgbcjpbppkoeghociecapcm) |
+| Theme | Chromium Theme | [Download](https://chromewebstore.google.com/detail/extensiontheme/ofdjcepefdkmglnbddhcfoefbcooacod) | |
 
 
-# How to install
-1. Download repository
-2. Open Chromium-based browser: `Extensions > Manage Extensions`.
-3. Activate `Developer mode`.
-4. Press `Load unpacked`.
-5. Select extension from `Extensions` folder.
+<!--## How to install from repository
+1. In a Chromium-based browser open `Extensions > Manage Extensions` menu.
+2. Activate `Developer mode` and press `Load unpacked`.
+3. Select an extension from `Extensions` folder of this repository.-->
 
 
-# License
+## License
 This code is released under the [`GNU GENERAL PUBLIC LICENSE`](LICENSE).
