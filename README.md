@@ -46,13 +46,13 @@ EXTENSION.app is the all-in-one browser extension for Chromium-based browsers.
 ![Toolbar](Assets/Screenshots/screenshot_toolbar.png)
 
 - **Side Panel**
-![Toolbar](Assets/Screenshots/screenshot_sidepanel.png)
+![Side Panel](Assets/Screenshots/screenshot_sidepanel.png)
 
 - **Context Menu**
-![Toolbar](Assets/Screenshots/screenshot_contextmenu.png)
+![Context Menu](Assets/Screenshots/screenshot_contextmenu.png)
 
 - **Picture-in-Picture**
-![Toolbar](Assets/Screenshots/screenshot_pip.png)
+![Picture-in-Picture](Assets/Screenshots/screenshot_pip.png)
 
 - **Omnibox**
 ![Omnibox](Assets/Screenshots/screenshot_omnibox.png)
