@@ -8,7 +8,7 @@
 ![Works with Vivaldi](https://img.shields.io/badge/Works_with-Vivaldi-blue?style=flat-square)
 
 
-[![EXTENSION.app](/Assets/Images/banner_icon-2400x800.png)](https://extension.app)
+[![EXTENSION.app](Assets/Images/banner_icon-2400x800.png)](https://extension.app)
 
 
 EXTENSION.app is the all-in-one browser extension for Chromium-based browsers.
@@ -39,6 +39,23 @@ EXTENSION.app is the all-in-one browser extension for Chromium-based browsers.
 1. In a Chromium-based browser open `Extensions > Manage Extensions` menu.
 2. Activate `Developer mode` and press `Load unpacked`.
 3. Select an extension from `Extensions` folder of this repository.-->
+
+
+## Screenshots
+- **Toolbar**
+![Toolbar](Assets/Screenshots/screenshot_toolbar.png)
+
+- **Side Bar**
+![Toolbar](Assets/Screenshots/screenshot_sidebar.png)
+
+- **Context Menu**
+![Toolbar](Assets/Screenshots/screenshot_contextmenu.png)
+
+- **Picture-in-Picture**
+![Toolbar](Assets/Screenshots/screenshot_pip.png)
+
+- **Omnibox**
+![Omnibox](Assets/Screenshots/screenshot_omnibox.png)
 
 
 ## License
