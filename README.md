@@ -32,7 +32,7 @@ EXTENSION.app is the all-in-one browser extension for Chromium-based browsers.
 | PiP | Picture-in-Picture video mode | [Download](https://chromewebstore.google.com/detail/extensionpip/jglifihbaiclgbcbnfddjgkdphlkdhpe) | [Download](https://microsoftedge.microsoft.com/addons/detail/extensionpip/ejaikgceflajdocalklfcnalmiohckpi) |
 | Player | Player controls | [Download](https://chromewebstore.google.com/detail/extensionplayer/nchjdedpgociedgnepmdggfpbngjhpnj) | [Download](https://microsoftedge.microsoft.com/addons/detail/extensionplayer/gijjiiedaeaafndnlmlhcmompjndonfn) |
 | Share | Share sheet with extensions | [Download](https://chromewebstore.google.com/detail/extensionshare/mmiepkogbkbebmbncgjabhnfapllhmjn) | [Download](https://microsoftedge.microsoft.com/addons/detail/extensionshare/bajoaglhgfgbcjpbppkoeghociecapcm) |
-| Theme | Chromium Theme | [Download](https://chromewebstore.google.com/detail/extensiontheme/ofdjcepefdkmglnbddhcfoefbcooacod) | |
+| Theme | Theme | [Download](https://chromewebstore.google.com/detail/extensiontheme/ofdjcepefdkmglnbddhcfoefbcooacod) | |
 
 
 <!--## How to install from repository
